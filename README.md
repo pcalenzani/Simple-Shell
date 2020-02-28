@@ -1,8 +1,8 @@
-# CSC 415 - Project 3 - My Shell
+# CSC 415 - My Shell
 
-## Student Name: Piero Calenzani
+## Author Name: Piero Calenzani
 
-## Student ID: 913134474
+    This is my shell bash coded in C for CSC415 at SFSU
 
 ## Build Instructions
     Built with 'make' command through makefile
