@@ -9,7 +9,3 @@
 
 ## Run Instructions
     Run as './myshell'
-
-## List Extra Credit comepleted (if not attempted leave blank)
-    1. Any amount of piped commands will be processed
-    2. Current directory will be shown with home directory as '~'
