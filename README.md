@@ -1,6 +1,6 @@
 # CSC 415 - My Shell
 
-## Author Name: Piero Calenzani
+## Author: Piero Calenzani
 
     This is my shell bash coded in C for CSC415 at SFSU
 
